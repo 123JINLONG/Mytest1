@@ -1,0 +1,6 @@
+﻿tsts.obj : error LNK2019: 无法解析的外部符号 _MD5_Init，函数 "void __cdecl getMD5(char const *,char *)" (?getMD5@@YAXPBDPAD@Z) 中引用了该符号
+tsts.obj : error LNK2019: 无法解析的外部符号 _MD5_Update，函数 "void __cdecl getMD5(char const *,char *)" (?getMD5@@YAXPBDPAD@Z) 中引用了该符号
+tsts.obj : error LNK2019: 无法解析的外部符号 _MD5_Final，函数 "void __cdecl getMD5(char const *,char *)" (?getMD5@@YAXPBDPAD@Z) 中引用了该符号
+D:\C++ware\OpenSSL-Win64\lib\libssl.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\C++ware\OpenSSL-Win64\lib\libcrypto.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\C++项目\test\test\Debug\test.exe : fatal error LNK1120: 3 个无法解析的外部命令
